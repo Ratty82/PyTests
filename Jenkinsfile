@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('Send to WinTest') {
+      steps {
+        cifsPublisher(alwaysPublishFromMaster: true, continueOnError: true, masterNodeName: 'WinTEST')
+      }
+    }
+
   }
 }
