@@ -5,3 +5,4 @@ Changes list:
 - added new text
 - added another information
 - added another information 2
+- added another information 3
