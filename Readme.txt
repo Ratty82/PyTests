@@ -1,1 +1,5 @@
-New content is added to test how CI detect new commit
+New content is added to test how CI detect new commit.
+
+Changes list:
+
+- added new text
