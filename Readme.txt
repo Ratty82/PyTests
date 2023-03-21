@@ -6,3 +6,4 @@ Changes list:
 - added another information
 - added another information 2
 - added another information 3
+- added another information 4
